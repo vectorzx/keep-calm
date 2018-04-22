@@ -1,0 +1,21 @@
+body {
+	color: white;
+	background-color: maroon;
+
+	font-family: 'Montserrat', serif;
+	font-size: 48px;
+}
+
+p {
+	text-align: center;
+	border: double;
+}
+
+#meme-border {
+	padding-right: 30%;
+	padding-left: 30%;
+}
+
+img {
+	filter: brightness(0) invert(1);
+}
